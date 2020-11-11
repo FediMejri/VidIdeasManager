@@ -17,9 +17,10 @@ const port=process.env.port || 5000
 
 const app=express()
 
+const db = require('./config/database')
 //connect to mongoose 
 mongoose.Promise=global.Promise
-mongoose.connect('mongodb+srv://mohamedfedi:abcdefg1234!@cluster0-5q2tv.mongodb.net/VidIdeas?retryWrites=true&w=majority',{
+mongoose.connect(db.mongoURI,{
     useUnifiedTopology:true})
     .then(console.log('database connected'))
     .catch(err=>{
