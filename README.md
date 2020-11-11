@@ -1,9 +1,9 @@
 # VidIdeasManager (Description)
 
 This is a small project about Video Ideas Management for people who make videos (Youtubers, Influencers, Marketing managers, content creators ...). \
-This web platform would help these people to register their ideas and manage their ideas for future videos.  \
+This web platform would help these people to register their ideas and manage their ideas for future videos.  
 
-# Technical Description   \
+# Technical Description   
 
 *) Creation of the server using Node.js and Express. \
 *) Using MongoDB for DATABASE. \
