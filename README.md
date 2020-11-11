@@ -13,8 +13,8 @@ This web platform would help these people to register their ideas and manage the
 *) Used modules : Express, Mongoose, Passport/Passport-local, Bcrypt, Express-session, Handlebars.js, Bootstrap4.  \
 *) Finally prepare and deploy the app to production with Heroku.   \
 
-You can check the app on : https://radiant-dawn-82192.herokuapp.com/     \
+You can check the app on : https://radiant-dawn-82192.herokuapp.com/     
 
-Please send me your feedback about the first and basic version on mohamedfed.mejri@etudiant-enit.utm.tn    \
+Please send me your feedback about the first and basic version on mohamedfed.mejri@etudiant-enit.utm.tn    
 
 Thanks
